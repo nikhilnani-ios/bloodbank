@@ -1,0 +1,3 @@
+nikhil
+4HhLKZu1EcfXMSgw
+mongodb+srv://nikhil:<password>@cluster0.rzelj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
